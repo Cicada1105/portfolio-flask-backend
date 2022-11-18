@@ -1,6 +1,10 @@
 import os
 
-from flask import Flask
+from flask import Flask, url_for
+
+from . import employment
+from . import education
+from . import projects
 
 def create_app(test_config = None):
 	# Create a new flask instance, passing in the name of the application and options
@@ -19,9 +23,9 @@ def create_app(test_config = None):
     except OSError:
         pass
 
-    # a simple page that says hello
-    @app.route('/hello')
-    def hello():
-        return 'Hello, World!'
+    # Register page routes/blueprints
+    app.register_blueprint(employment.bp)
+    app.register_blueprint(education.bp)
+    app.register_blueprint(projects.bp)
 
     return app

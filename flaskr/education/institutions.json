@@ -1,0 +1,29 @@
+[
+	{
+		"institution_name": "Olivet Nazarene University",
+		"degree_type": "Undergraduate",
+		"degree": "BS Computer Science",
+		"start_month": "august",
+		"start_year": 2016,
+		"end_month": "may",
+		"end_year": 2017
+	},
+	{
+		"institution_name": "Lewis University",
+		"degree_type": "Undergraduate",
+		"degree": "BS Computer Science & Mathematics Minor",
+		"start_month": "August",
+		"start_year": 2017,
+		"end_month": "December",
+		"end_year": 2019
+	},
+	{
+		"institution_name": "Humber College",
+		"degree_type": "Post Graduate Certificate",
+		"degree": "Web Development",
+		"start_month": "January",
+		"start_year": 2022,
+		"end_month": "December",
+		"end_year": 2022
+	}
+]

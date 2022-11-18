@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Fullstack Developer and Designer",
+		"employer": "CarlColvinArts",
+		"description": "Designed, developed and maintained the carlcolvinarts.com site for both the user and administrative side.",
+		"start_month": "january",
+		"start_year": 2020,
+		"end_month": "december",
+		"end_year": 2021
+	},
+	{
+		"title": "Receptionist/Student Worker",
+		"employer": "Lewis University, College of Business",
+		"description": "Assisted faculty in research, auditing of syllabi, accounting for inventory, deliveries, providing customer service, and more.",
+		"start_month": "august",
+		"start_year": 2017,
+		"end_month": "december",
+		"end_year": 2019
+	}
+]
